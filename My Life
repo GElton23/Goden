@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Life</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+        main {
+            padding: 20px;
+            background-color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hi Vlog Welcome to My Guys</h1>
+    </header>
+    <main>
+        <h2>About Me</h2>
+        <p>Hello! I'm Friendly, Cooking, and I want learning a Guitar.</p>
+        <h2>My Hobbies</h2>
+        <ul>
+            <li>Playing</li>
+            <li>Practice Coding</li>
+    </main>
+</body>
+</html>
